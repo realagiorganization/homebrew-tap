@@ -3,8 +3,8 @@ class TetherAutolaunchd < Formula
 
   desc "CLI and systemd user-service scaffold for local Tether autolaunch and auto-attach."
   homepage "https://github.com/realagiorganization/tether-autolaunchd"
-  url "https://github.com/realagiorganization/tether-autolaunchd/releases/download/v0.1.0/tether_autolaunchd-0.1.0.tar.gz"
-  sha256 "21b2a58f0c6f735f427c744b39833b74c6655e7bf7005fa9397ac459a87db11f"
+  url "https://github.com/realagiorganization/tether-autolaunchd/releases/download/v0.1.1/tether_autolaunchd-0.1.1.tar.gz"
+  sha256 "efdaeb221d4bc53ec58d95f7dc5652c360d5c77e5ef9af241e5827caf3b02f17"
   license "MIT"
   depends_on "python@3.12"
 
