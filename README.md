@@ -1,2 +1,8 @@
 # homebrew-tap
-Homebrew tap for realagiorganization packages
+
+Install the launcher with:
+
+```bash
+brew tap realagiorganization/tap
+brew install tether-autolaunchd
+```
